@@ -10,13 +10,14 @@
 <br>
 <img width="703" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin-project/assets/115062965/b5d689d8-ca59-4fdf-86fd-9a2f57c3fb75">
 
-
+<br>
 # 💊개발 환경💊
 
 ---
 
 <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/> • <img src="https://img.shields.io/badge/SpringBoot-6DB23F?style=flat-square&logo=SpringBoot&logoColor=white"/> • <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>• <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> • <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> • <img src="https://img.shields.io/badge/WearOS-4285F4?style=flat-square&logo=WearOS&logoColor=white"/> • <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
 
+<br>
 # 💊서비스 화면💊
 
 ---
@@ -32,6 +33,8 @@
 - 분석 리포트 페이지
 
 - 검색 페이지
+
+<br>
 
 # 💊주요 기능💊
 
@@ -72,6 +75,8 @@
 - 영양제 복용 기록
 - 영양제 복용 알림
 
+<br>
+
 # 💊기술 소개💊
 
 ---
@@ -88,6 +93,7 @@
 - 웨어러블
     - Wear OS를 활용하여 간편한 복용 기록 관리 기능 제공
 
+<br>
 # 💊설계 문서💊
 
 ---
@@ -110,6 +116,7 @@
 
 [https://bonkri.notion.site/Pillin-e594f1a0efff47e6ad42acfcb31e98ec?pvs=4](https://www.notion.so/Pillin-e594f1a0efff47e6ad42acfcb31e98ec?pvs=21)
 
+<br>
 # 💊팀원 소개💊
 
 ---
