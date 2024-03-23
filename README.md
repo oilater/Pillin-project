@@ -12,8 +12,6 @@
 
 ---
 
-https://simpleicons.org/?q=github
-
 <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/> • <img src="https://img.shields.io/badge/SpringBoot-6DB23F?style=flat-square&logo=SpringBoot&logoColor=white"/> • <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>• <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> • <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> • <img src="https://img.shields.io/badge/WearOS-4285F4?style=flat-square&logo=WearOS&logoColor=white"/> • <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
 
 # 💊서비스 화면💊
