@@ -97,13 +97,11 @@
 
 [https://bonkri.notion.site/fc19297e4dc44ad584ce8067969edea1?pvs=4](https://www.notion.so/fc19297e4dc44ad584ce8067969edea1?pvs=21)
 
-### ERD
-
-![ERD v1.1 (1).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ac0dcf-e644-447c-8925-ad734d9308bd/b29f8036-3e3c-4a81-9dad-1840f2fc6102/ERD_v1.1_(1).png)
-
 ### 아키텍처
 
-![EE3F97C6-1E9D-44B5-8A11-222BA39E42F2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ac0dcf-e644-447c-8925-ad734d9308bd/ea610124-d8fe-474b-b5bb-72f2239eb58a/EE3F97C6-1E9D-44B5-8A11-222BA39E42F2.png)
+<img width="709" alt="스크린샷 2024-03-23 오후 2 01 51" src="https://github.com/oilater/Pillin-project/assets/115062965/9c2cd46d-52d9-4983-b721-c0c1515bccd7">
+
+
 
 ### UCC
 
@@ -113,4 +111,7 @@
 
 ---
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ac0dcf-e644-447c-8925-ad734d9308bd/b46f0f2c-2e5c-417a-9a50-568d15d2e776/Untitled.png)
+<img width="901" alt="스크린샷 2024-03-23 오후 2 00 31" src="https://github.com/oilater/Pillin-project/assets/115062965/55c9e869-c541-4197-8ea8-95d8bd0b939a">
+
+
+
