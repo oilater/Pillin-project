@@ -4,7 +4,9 @@
 
 ## Pillin(필린)
 
-영양제 재고 관리 및 알림 앱 서비스
+건강하게 오래 살자!<br>
+영양제 복용 시간에 알려주고, 재고 관리를 통해 재구매 시기를 놓치지 않게 도와주는<br>
+필린입니다! <br>
 <img width="703" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin-project/assets/115062965/b5d689d8-ca59-4fdf-86fd-9a2f57c3fb75">
 
 
