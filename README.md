@@ -5,10 +5,8 @@
 ## Pillin(필린)
 
 영양제 재고 관리 및 알림 앱 서비스
+<img width="703" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin-project/assets/115062965/b5d689d8-ca59-4fdf-86fd-9a2f57c3fb75">
 
-![noback_login_pillin_logo.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ac0dcf-e644-447c-8925-ad734d9308bd/b2744781-d2cb-4ffd-bf41-6adfd00f4aa7/noback_login_pillin_logo.png)
-
-![2024-02-15 16 19 05.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ac0dcf-e644-447c-8925-ad734d9308bd/72b7e27a-6eda-4f5d-8ccd-ae3ed55b06fc/2024-02-15_16_19_05.png)
 
 # 💊개발 환경💊
 
