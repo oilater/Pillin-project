@@ -1,72 +1,117 @@
-# Pillin
-## 서비스 설명/주요기능
-### 영양제 관리 및 추천 서비스 
-1. 영양제 복용 기록
-2. 필요한 영양소의 영양제 추천
-3. 영양제 알람
-4. 영양제별 재고관리 
-5. 영양제 상세정보 
-6. 영양제 검색 
-7. 영양제 분석 리포트 
+# 💊프로젝트 이름💊
 
-## 프로젝트 특장점(기능 관점)
-1. 복용하는 영양제 자동 재고 관리
-2. 웨어러블 기기와의 연계를 통해 알람 및 관리
-3. 깔끔하고 예쁜 디자인으로 SNS에 공유 유도
-4. 영양제 레벨 시스템
-- 하루 꼬박꼬박 복용하면 할수록 경험치 증가
-- 뱃지, 메달을 활용해 성취감 유발
+---
 
-## 프로젝트의 차별점/독창성(기술 관점)
-1. Item 기반 영양제 복용 분석 추천
+## Pillin(필린)
 
-2. 웨어러블 사용
+영양제 재고 관리 및 알림 앱 서비스
 
-3. 자동 영양재 재고 관리
+![noback_login_pillin_logo.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ac0dcf-e644-447c-8925-ad734d9308bd/b2744781-d2cb-4ffd-bf41-6adfd00f4aa7/noback_login_pillin_logo.png)
 
-## 역할별 담당자
-FE : 구본민, 김성현, 양희태
-BE : 강성범, 김희주, 이주혁
+![2024-02-15 16 19 05.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ac0dcf-e644-447c-8925-ad734d9308bd/72b7e27a-6eda-4f5d-8ccd-ae3ed55b06fc/2024-02-15_16_19_05.png)
 
-## FE 프레임워크
-Flutter
-Android Studio
+# 💊개발 환경💊
 
-## BE 프레임워크
-Spring Boot
+---
 
-## DB
-Mysql
+https://simpleicons.org/?q=github
 
-## 주요 기술 스택
-BE : Android Studio, Spring Boot, Flask
-FE : Flutter, Android Studio
-DB : Mysql
-Infra : Docker
-AI : Item 기반 추천 알고리즘
+<img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/> • <img src="https://img.shields.io/badge/SpringBoot-6DB23F?style=flat-square&logo=SpringBoot&logoColor=white"/> • <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>• <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> • <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> • <img src="https://img.shields.io/badge/WearOS-4285F4?style=flat-square&logo=WearOS&logoColor=white"/> • <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
 
-## 프로젝트 배경
-- 매일 건강을 챙기기 귀찮은 사람들이 **꾸준히 영양제를 찾아 먹는데 느끼는 어려움**에 대해 생각해 보았습니다.
-- 뿐만 아니라, 무엇이든 공유하고 기록하고 싶은 젊은 세대들의 감성까지 감안한 영양제 공유/관리 서비스를 기획하게 되었습니다.
+# 💊서비스 화면💊
 
-## 프로젝트 목표
-## 내 영양제 쉽게 관리!
+---
 
-> 많은 사람들이 영양제가 떨어져간다는 것을 인지하고 있지만, 계속 재구매 고민만 하다가 결국 영양제가 동 나서야 재구매를 하게 됩니다.
-> 
+메인 페이지
 
-<aside>
-💡 저희는 초기 영양제 개수와 섭취 날짜를 기반으로 영양제 재고 상태를 확인하여 알람이 일정 개수 이하로 떨어지면 **추천 영양제와 함께 알람**을 보내 사용자의 재구매 고민을 줄어들게 합니다.
+영양제 등록 페이지
 
-</aside>
+복용 이력 페이지
 
-## 나 영양제 이거 먹어!
+영양제 알람 등록 페이지
 
-> 많은 사람들이 SNS에 내가 먹는 영양제 사진을 찍어서 올립니다. 이런 사진은 예쁘지 않고, 내가 얼마나 잘 챙겨 먹는지 공유할 수 없습니다.
-> 
+분석 리포트 페이지
 
-<aside>
-💡 저희는 사용자가 어떤 영양제를 먹는지, 얼마나 자주 챙겨 먹는지를 저장하고 있습니다. 이 정보를 카드 형태로 만들어 SNS에 쉽고 예쁘고 공유할 수 있게 하며, QR 코드를 통해 핸드폰과 스마트 워치에도 원하는 상대에게 나의 영양제 섭취 활동을 공유할 수 있습니다.
+검색 페이지
 
-</aside>
+# 💊주요 기능💊
 
+---
+
+### 로그인
+
+- 소셜 계정으로도 회원 가입 및 로그인이 가능해요!
+    - 카카오
+
+### 내 프로필 생성
+
+- 기본 정보(아이디, 이름, 생년월일, 성별 등)
+
+### 재고 등록
+
+- 사용자가 보유중인 영양제 등록
+- 재고 관리를 통해 재구매 알람
+
+### 알림 설정
+
+- 주기적인 복용을 도와주기 위해 현재 보유 중인 영양제 알람 등록/수정 가능
+
+### 건강 관리
+
+- 영양제 복용 기록 ( 월간/주간/일일 형식 )
+- 필요한 영양소의 영양제 추천(랭킹 서비스)
+- 영양제 분석 리포트
+
+### 검색
+
+- 영양제 이름 검색
+    - 텍스트 검색 - 영양제 성분별/ 제품명/브랜드명/건강고민별 검색
+- 영양제 상세정보 및 구매링크 제공
+
+### 웨어러블
+
+- 영양제 복용 기록
+- 영양제 복용 알림
+
+# 💊기술 소개💊
+
+---
+
+- Android/iOS 에서 동작 가능한 하이브리드 어플리케이션
+    - Flutter를 활용하여 하이브리드 어플리케이션 제작
+- 사용자 알림
+    - Firebase Cloud Message 를 이용하여 사용자에게 Push 알람 제공
+- 카카오 로그인
+    - 일반 회원가입 및 OAuth를 이용한 인증을 통해 간편한 회원가입 제공
+- 웨어러블
+    - Wear OS를 활용하여 간편한 복용 기록 관리 기능 제공
+
+# 💊설계 문서💊
+
+---
+
+### 기획서
+
+[https://bonkri.notion.site/e8be82238cd24274bd5aecdc23b75efd?pvs=4](https://www.notion.so/e8be82238cd24274bd5aecdc23b75efd?pvs=21)
+
+### 기능 명세서
+
+[https://bonkri.notion.site/fc19297e4dc44ad584ce8067969edea1?pvs=4](https://www.notion.so/fc19297e4dc44ad584ce8067969edea1?pvs=21)
+
+### ERD
+
+![ERD v1.1 (1).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ac0dcf-e644-447c-8925-ad734d9308bd/b29f8036-3e3c-4a81-9dad-1840f2fc6102/ERD_v1.1_(1).png)
+
+### 아키텍처
+
+![EE3F97C6-1E9D-44B5-8A11-222BA39E42F2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ac0dcf-e644-447c-8925-ad734d9308bd/ea610124-d8fe-474b-b5bb-72f2239eb58a/EE3F97C6-1E9D-44B5-8A11-222BA39E42F2.png)
+
+### UCC
+
+[https://bonkri.notion.site/Pillin-e594f1a0efff47e6ad42acfcb31e98ec?pvs=4](https://www.notion.so/Pillin-e594f1a0efff47e6ad42acfcb31e98ec?pvs=21)
+
+# 💊팀원 소개💊
+
+---
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ac0dcf-e644-447c-8925-ad734d9308bd/b46f0f2c-2e5c-417a-9a50-568d15d2e776/Untitled.png)
